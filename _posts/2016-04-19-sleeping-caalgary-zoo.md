@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sleeping - Caalgary Zoo
-datePublished: '2016-04-19T01:53:39.056Z'
-dateModified: '2016-04-19T01:53:08.741Z'
+datePublished: '2016-04-19T02:10:17.850Z'
+dateModified: '2016-04-19T01:53:41.389Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-19-sleeping-caalgary-zoo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-sleeping-caalgary-zoo.md
-published: true
 url: sleeping-caalgary-zoo/index.html
 _type: Article
 
