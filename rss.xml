@@ -4,8 +4,15 @@
         <description><![CDATA[displaylab]]></description>
         <link>https://thegrid.ai/displaylab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 02:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 02:04:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/displaylab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b571a6c8-45e2-46bc-9d14-ea01860889d3.jpg">]]></description>
+            <link>https://thegrid.ai/displaylab/41b3d414-3e68-49be-91b6-854634473ae2/index.html</link>
+            <guid isPermaLink="false">41b3d414-3e68-49be-91b6-854634473ae2</guid>
+            <pubDate>Tue, 19 Apr 2016 02:04:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f80e956-0d56-43ee-936b-4a952f9e3b15.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/displaylab/mandrill-calgary-zoo/index.html</link>
             <guid isPermaLink="false">fc16601b-45b0-4463-b606-ff8b1ca59e38</guid>
             <pubDate>Tue, 19 Apr 2016 01:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23a963c3-8586-46b6-a4e0-2c5febf816e1.jpg">]]></description>
-            <link>https://thegrid.ai/displaylab/d2ef5dd1-7011-46ef-991f-ce724ec06e00/index.html</link>
-            <guid isPermaLink="false">d2ef5dd1-7011-46ef-991f-ce724ec06e00</guid>
-            <pubDate>Tue, 19 Apr 2016 01:48:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
