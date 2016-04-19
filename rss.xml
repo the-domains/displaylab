@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[displaylab]]></title>
         <description><![CDATA[displaylab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/displaylab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 01:36:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 01:48:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/displaylab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23a963c3-8586-46b6-a4e0-2c5febf816e1.jpg">]]></description>
+            <link>https://thegrid.ai/displaylab/d2ef5dd1-7011-46ef-991f-ce724ec06e00/index.html</link>
+            <guid isPermaLink="false">d2ef5dd1-7011-46ef-991f-ce724ec06e00</guid>
+            <pubDate>Tue, 19 Apr 2016 01:48:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33add7f7-e809-40f4-b563-dd24ec03e0e4.jpg">]]></description>
-            <link>undefinedapril-3-2016-clear-skies-and-a-fair-forcast-for-auroras-m/index.html</link>
+            <link>https://thegrid.ai/displaylab/april-3-2016-clear-skies-and-a-fair-forcast-for-auroras-m/index.html</link>
             <guid isPermaLink="false">af0bde50-6108-40df-8c2f-02e9b6ccc331</guid>
             <pubDate>Tue, 19 Apr 2016 01:36:01 GMT</pubDate>
         </item>
