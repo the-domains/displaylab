@@ -1,0 +1,28 @@
+name: displaylab
+favicon: null
+layout_spectrum: 0.5962166083045304
+typography_spectrum: 0.8609118396416306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.20686403615400195
+  lightness: 0.9840184771455824
+  saturation: 0.7353716248180717
+  rhythmicContrast: 0.9344993603881449
+purpose: []
